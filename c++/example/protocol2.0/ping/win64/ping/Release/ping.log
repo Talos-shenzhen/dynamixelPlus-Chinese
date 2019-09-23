@@ -1,0 +1,151 @@
+﻿  ping.cpp
+d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_read.h(51): warning C4251: “dynamixel::GroupBulkRead::id_list_”: class“std::vector<uint8_t,std::allocator<_Ty>>”需要有 dll 接口由 class“dynamixel::GroupBulkRead”的客户端使用
+          with
+          [
+              _Ty=uint8_t
+          ]
+  d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(104): note: 参见“std::vector<uint8_t,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=uint8_t
+          ]
+d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_read.h(52): warning C4251: “dynamixel::GroupBulkRead::address_list_”: class“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupBulkRead”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_read.h(52): note: 参见“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_read.h(53): warning C4251: “dynamixel::GroupBulkRead::length_list_”: class“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupBulkRead”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_read.h(52): note: 参见“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_read.h(54): warning C4251: “dynamixel::GroupBulkRead::data_list_”: class“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupBulkRead”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_read.h(54): note: 参见“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_write.h(51): warning C4251: “dynamixel::GroupBulkWrite::id_list_”: class“std::vector<uint8_t,std::allocator<_Ty>>”需要有 dll 接口由 class“dynamixel::GroupBulkWrite”的客户端使用
+          with
+          [
+              _Ty=uint8_t
+          ]
+  d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(104): note: 参见“std::vector<uint8_t,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=uint8_t
+          ]
+d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_write.h(52): warning C4251: “dynamixel::GroupBulkWrite::address_list_”: class“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupBulkWrite”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_read.h(52): note: 参见“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_write.h(53): warning C4251: “dynamixel::GroupBulkWrite::length_list_”: class“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupBulkWrite”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_read.h(52): note: 参见“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_write.h(54): warning C4251: “dynamixel::GroupBulkWrite::data_list_”: class“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupBulkWrite”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_read.h(54): note: 参见“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_sync_read.h(51): warning C4251: “dynamixel::GroupSyncRead::id_list_”: class“std::vector<uint8_t,std::allocator<_Ty>>”需要有 dll 接口由 class“dynamixel::GroupSyncRead”的客户端使用
+          with
+          [
+              _Ty=uint8_t
+          ]
+  d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(104): note: 参见“std::vector<uint8_t,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=uint8_t
+          ]
+d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_sync_read.h(52): warning C4251: “dynamixel::GroupSyncRead::data_list_”: class“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupSyncRead”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_read.h(54): note: 参见“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_sync_write.h(51): warning C4251: “dynamixel::GroupSyncWrite::id_list_”: class“std::vector<uint8_t,std::allocator<_Ty>>”需要有 dll 接口由 class“dynamixel::GroupSyncWrite”的客户端使用
+          with
+          [
+              _Ty=uint8_t
+          ]
+  d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(104): note: 参见“std::vector<uint8_t,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=uint8_t
+          ]
+d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_sync_write.h(52): warning C4251: “dynamixel::GroupSyncWrite::data_list_”: class“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupSyncWrite”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  d:\softdev\dynamixelsdk\c++\include\dynamixel_sdk/group_bulk_read.h(54): note: 参见“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+..\..\ping.cpp(64): warning C4273: “getch”: dll 链接不一致
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的前一个定义
+..\..\ping.cpp(81): warning C4273: “kbhit”: dll 链接不一致
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的前一个定义
+..\..\ping.cpp(137): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  ..\..\ping.cpp(63): note: 参见“getch”的声明
+..\..\ping.cpp(150): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  ..\..\ping.cpp(63): note: 参见“getch”的声明
+    正在创建库 D:\softDev\DynamixelSDK\c++\example\protocol2.0\ping\win64\Release\ping.lib 和对象 D:\softDev\DynamixelSDK\c++\example\protocol2.0\ping\win64\Release\ping.exp
+  正在生成代码
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ping.vcxproj -> D:\softDev\DynamixelSDK\c++\example\protocol2.0\ping\win64\Release\ping.exe
+  ping.vcxproj -> D:\softDev\DynamixelSDK\c++\example\protocol2.0\ping\win64\Release\ping.pdb (Full PDB)

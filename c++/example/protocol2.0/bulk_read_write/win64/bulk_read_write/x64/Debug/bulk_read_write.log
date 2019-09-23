@@ -1,0 +1,163 @@
+﻿  bulk_read_write.cpp
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(51): warning C4251: “dynamixel::GroupBulkRead::id_list_”: class“std::vector<uint8_t,std::allocator<_Ty>>”需要有 dll 接口由 class“dynamixel::GroupBulkRead”的客户端使用
+          with
+          [
+              _Ty=uint8_t
+          ]
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(104): note: 参见“std::vector<uint8_t,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=uint8_t
+          ]
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(52): warning C4251: “dynamixel::GroupBulkRead::address_list_”: class“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupBulkRead”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(52): note: 参见“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(53): warning C4251: “dynamixel::GroupBulkRead::length_list_”: class“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupBulkRead”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(52): note: 参见“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(54): warning C4251: “dynamixel::GroupBulkRead::data_list_”: class“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupBulkRead”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(54): note: 参见“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(51): warning C4251: “dynamixel::GroupBulkWrite::id_list_”: class“std::vector<uint8_t,std::allocator<_Ty>>”需要有 dll 接口由 class“dynamixel::GroupBulkWrite”的客户端使用
+          with
+          [
+              _Ty=uint8_t
+          ]
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(104): note: 参见“std::vector<uint8_t,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=uint8_t
+          ]
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(52): warning C4251: “dynamixel::GroupBulkWrite::address_list_”: class“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupBulkWrite”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(52): note: 参见“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(53): warning C4251: “dynamixel::GroupBulkWrite::length_list_”: class“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupBulkWrite”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(52): note: 参见“std::map<uint8_t,uint16_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint16_t
+          ]
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_write.h(54): warning C4251: “dynamixel::GroupBulkWrite::data_list_”: class“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupBulkWrite”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(54): note: 参见“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_read.h(51): warning C4251: “dynamixel::GroupSyncRead::id_list_”: class“std::vector<uint8_t,std::allocator<_Ty>>”需要有 dll 接口由 class“dynamixel::GroupSyncRead”的客户端使用
+          with
+          [
+              _Ty=uint8_t
+          ]
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(104): note: 参见“std::vector<uint8_t,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=uint8_t
+          ]
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_read.h(52): warning C4251: “dynamixel::GroupSyncRead::data_list_”: class“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupSyncRead”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(54): note: 参见“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_write.h(51): warning C4251: “dynamixel::GroupSyncWrite::id_list_”: class“std::vector<uint8_t,std::allocator<_Ty>>”需要有 dll 接口由 class“dynamixel::GroupSyncWrite”的客户端使用
+          with
+          [
+              _Ty=uint8_t
+          ]
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\packet_handler.h(104): note: 参见“std::vector<uint8_t,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=uint8_t
+          ]
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_sync_write.h(52): warning C4251: “dynamixel::GroupSyncWrite::data_list_”: class“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“dynamixel::GroupSyncWrite”的客户端使用
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\include\dynamixel_sdk\group_bulk_read.h(54): note: 参见“std::map<uint8_t,uint8_t *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=uint8_t,
+              _Ty=uint8_t *
+          ]
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\bulk_read_write\bulk_read_write.cpp(89): warning C4273: “getch”: dll 链接不一致
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的前一个定义
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\bulk_read_write\bulk_read_write.cpp(105): warning C4273: “kbhit”: dll 链接不一致
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的前一个定义
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\bulk_read_write\bulk_read_write.cpp(172): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\bulk_read_write\bulk_read_write.cpp(89): note: 参见“getch”的声明
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\bulk_read_write\bulk_read_write.cpp(182): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\bulk_read_write\bulk_read_write.cpp(89): note: 参见“getch”的声明
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\bulk_read_write\bulk_read_write.cpp(218): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\bulk_read_write\bulk_read_write.cpp(89): note: 参见“getch”的声明
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\bulk_read_write\bulk_read_write.cpp(317): warning C4102: “ExitMain”: 未引用的标签
+    正在创建库 D:\microController\embeddedplc\SmartServoFramework\DynamixelSDK\c++\example\protocol2.0\bulk_read_write\win64\x64\Debug\bulk_read_write.lib 和对象 D:\microController\embeddedplc\SmartServoFramework\DynamixelSDK\c++\example\protocol2.0\bulk_read_write\win64\x64\Debug\bulk_read_write.exp
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class dynamixel::PortHandler * __cdecl dynamixel::PortHandler::getPortHandler(char const *)" (__imp_?getPortHandler@PortHandler@dynamixel@@SAPEAV12@PEBD@Z)，该符号在函数 main 中被引用
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class dynamixel::PacketHandler * __cdecl dynamixel::PacketHandler::getPacketHandler(float)" (__imp_?getPacketHandler@PacketHandler@dynamixel@@SAPEAV12@M@Z)，该符号在函数 main 中被引用
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl dynamixel::GroupBulkRead::GroupBulkRead(class dynamixel::PortHandler *,class dynamixel::PacketHandler *)" (__imp_??0GroupBulkRead@dynamixel@@QEAA@PEAVPortHandler@1@PEAVPacketHandler@1@@Z)，该符号在函数 main 中被引用
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl dynamixel::GroupBulkRead::~GroupBulkRead(void)" (__imp_??1GroupBulkRead@dynamixel@@QEAA@XZ)，该符号在函数 main 中被引用
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl dynamixel::GroupBulkRead::addParam(unsigned char,unsigned short,unsigned short)" (__imp_?addParam@GroupBulkRead@dynamixel@@QEAA_NEGG@Z)，该符号在函数 main 中被引用
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __cdecl dynamixel::GroupBulkRead::txRxPacket(void)" (__imp_?txRxPacket@GroupBulkRead@dynamixel@@QEAAHXZ)，该符号在函数 main 中被引用
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl dynamixel::GroupBulkRead::isAvailable(unsigned char,unsigned short,unsigned short)" (__imp_?isAvailable@GroupBulkRead@dynamixel@@QEAA_NEGG@Z)，该符号在函数 main 中被引用
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: unsigned int __cdecl dynamixel::GroupBulkRead::getData(unsigned char,unsigned short,unsigned short)" (__imp_?getData@GroupBulkRead@dynamixel@@QEAAIEGG@Z)，该符号在函数 main 中被引用
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl dynamixel::GroupBulkWrite::GroupBulkWrite(class dynamixel::PortHandler *,class dynamixel::PacketHandler *)" (__imp_??0GroupBulkWrite@dynamixel@@QEAA@PEAVPortHandler@1@PEAVPacketHandler@1@@Z)，该符号在函数 main 中被引用
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl dynamixel::GroupBulkWrite::~GroupBulkWrite(void)" (__imp_??1GroupBulkWrite@dynamixel@@QEAA@XZ)，该符号在函数 main 中被引用
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl dynamixel::GroupBulkWrite::addParam(unsigned char,unsigned short,unsigned short,unsigned char *)" (__imp_?addParam@GroupBulkWrite@dynamixel@@QEAA_NEGGPEAE@Z)，该符号在函数 main 中被引用
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl dynamixel::GroupBulkWrite::clearParam(void)" (__imp_?clearParam@GroupBulkWrite@dynamixel@@QEAAXXZ)，该符号在函数 main 中被引用
+bulk_read_write.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __cdecl dynamixel::GroupBulkWrite::txPacket(void)" (__imp_?txPacket@GroupBulkWrite@dynamixel@@QEAAHXZ)，该符号在函数 main 中被引用
+D:\microController\embeddedplc\SmartServoFramework\DynamixelSDK\c++\example\protocol2.0\bulk_read_write\win64\x64\Debug\bulk_read_write.exe : fatal error LNK1120: 13 个无法解析的外部命令

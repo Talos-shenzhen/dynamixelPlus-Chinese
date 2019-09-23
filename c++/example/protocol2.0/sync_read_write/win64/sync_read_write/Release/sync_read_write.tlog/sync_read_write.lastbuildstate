@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Release|x64|D:\microController\embeddedplc\SmartServoFramework\DynamixelSDK\c++\example\protocol2.0\sync_read_write\win64\|

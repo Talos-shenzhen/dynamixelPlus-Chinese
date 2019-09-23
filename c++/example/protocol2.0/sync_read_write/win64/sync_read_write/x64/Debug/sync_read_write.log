@@ -1,0 +1,12 @@
+﻿  sync_read_write.cpp
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\sync_read_write\sync_read_write.cpp(102): warning C4273: “getch”: dll 链接不一致
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的前一个定义
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\sync_read_write\sync_read_write.cpp(118): warning C4273: “kbhit”: dll 链接不一致
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的前一个定义
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\sync_read_write\sync_read_write.cpp(450): warning C4244: “初始化”: 从“double”转换到“int32_t”，可能丢失数据
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\sync_read_write\sync_read_write.cpp(217): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\sync_read_write\sync_read_write.cpp(102): note: 参见“getch”的声明
+d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\sync_read_write\sync_read_write.cpp(227): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  d:\microcontroller\embeddedplc\smartservoframework\dynamixelsdk\c++\example\protocol2.0\sync_read_write\sync_read_write.cpp(102): note: 参见“getch”的声明
+  sync_read_write.vcxproj -> D:\microController\embeddedplc\SmartServoFramework\DynamixelSDK\c++\example\protocol2.0\sync_read_write\win64\x64\Debug\sync_read_write.exe
+  sync_read_write.vcxproj -> D:\microController\embeddedplc\SmartServoFramework\DynamixelSDK\c++\example\protocol2.0\sync_read_write\win64\x64\Debug\sync_read_write.pdb (Full PDB)

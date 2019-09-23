@@ -1,0 +1,20 @@
+﻿  sync_read_write.cpp
+..\..\sync_read_write.cpp(102): warning C4273: “getch”: dll 链接不一致
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的前一个定义
+..\..\sync_read_write.cpp(118): warning C4273: “kbhit”: dll 链接不一致
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(458): note: 参见“kbhit”的前一个定义
+..\..\sync_read_write.cpp(359): warning C4244: “初始化”: 从“double”转换到“int32_t”，可能丢失数据
+..\..\sync_read_write.cpp(206): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  ..\..\sync_read_write.cpp(102): note: 参见“getch”的声明
+..\..\sync_read_write.cpp(216): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  ..\..\sync_read_write.cpp(102): note: 参见“getch”的声明
+..\..\sync_read_write.cpp(340): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  ..\..\sync_read_write.cpp(102): note: 参见“getch”的声明
+    正在创建库 D:\microController\embeddedplc\SmartServoFramework\DynamixelSDK\c++\example\protocol2.0\sync_read_write\win64\Release\sync_read_write.lib 和对象 D:\microController\embeddedplc\SmartServoFramework\DynamixelSDK\c++\example\protocol2.0\sync_read_write\win64\Release\sync_read_write.exp
+  正在生成代码
+  1 of 93 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  sync_read_write.vcxproj -> D:\microController\embeddedplc\SmartServoFramework\DynamixelSDK\c++\example\protocol2.0\sync_read_write\win64\Release\sync_read_write.exe
+  sync_read_write.vcxproj -> D:\microController\embeddedplc\SmartServoFramework\DynamixelSDK\c++\example\protocol2.0\sync_read_write\win64\Release\sync_read_write.pdb (Full PDB)
